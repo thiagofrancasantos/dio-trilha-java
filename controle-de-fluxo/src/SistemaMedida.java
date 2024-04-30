@@ -1,5 +1,6 @@
 public class SistemaMedida {
     public static void main(String[] args) {
+        
         String sigla = "P";
         
         switch (sigla) {
