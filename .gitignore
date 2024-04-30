@@ -24,5 +24,10 @@ hs_err_pid*
 replay_pid*
 tipos-variaveis/.vscode/settings.json
 sistema-smart-tv/.vscode/settings.json
+<<<<<<< HEAD
 controle-de-fluxo/.vscode/settings.json
+=======
+terminal/.vscode/settings.json
+uso-terminal/.vscode/settings.json
+>>>>>>> a105fab6cc3382df34ab8cc1318690d891d92afc
 conta-banco/.vscode/settings.json
